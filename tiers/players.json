@@ -18,6 +18,10 @@
       {
         "kit": "NethOp",
         "tier": "HT1"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT1"
       }
     ]
   }
