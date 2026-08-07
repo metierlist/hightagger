@@ -14,15 +14,6 @@
     "name": "HandsomeHenryyy",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "NethOp",
-        "tier": "HT1"
-      },
-      {
-        "kit": "Vanilla",
-        "tier": "HT1"
-      }
-    ]
+    "stats": []
   }
 ]
