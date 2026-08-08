@@ -26,6 +26,10 @@
       {
         "kit": "Vanilla",
         "tier": "HT1"
+      },
+      {
+        "kit": "Cart",
+        "tier": "HT1"
       }
     ]
   }
