@@ -34,6 +34,10 @@
       {
         "kit": "UHC",
         "tier": "HT1"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT1"
       }
     ]
   }
