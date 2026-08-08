@@ -74,6 +74,10 @@
       {
         "kit": "Elytra",
         "tier": "HT1"
+      },
+      {
+        "kit": "Trident",
+        "tier": "HT1"
       }
     ]
   }
