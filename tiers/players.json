@@ -42,6 +42,10 @@
       {
         "kit": "SMP",
         "tier": "HT1"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT1"
       }
     ]
   }
