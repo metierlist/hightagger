@@ -30,6 +30,10 @@
       {
         "kit": "Cart",
         "tier": "HT1"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT1"
       }
     ]
   }
