@@ -18,6 +18,11 @@
     "name": "HandsomeHenryyy",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "NethOp",
+        "tier": "HT1"
+      }
+    ]
   }
 ]
