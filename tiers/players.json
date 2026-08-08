@@ -46,6 +46,10 @@
       {
         "kit": "DiaSMP",
         "tier": "HT1"
+      },
+      {
+        "kit": "Sword",
+        "tier": "HT1"
       }
     ]
   }
