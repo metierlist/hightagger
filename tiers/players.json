@@ -54,6 +54,10 @@
       {
         "kit": "Spearmace",
         "tier": "HT1"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT1"
       }
     ]
   }
