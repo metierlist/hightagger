@@ -88,5 +88,11 @@
         "tier": "HT1"
       }
     ]
+  },
+  {
+    "name": "Test",
+    "region": "PK",
+    "type": "Cracked",
+    "stats": []
   }
 ]
