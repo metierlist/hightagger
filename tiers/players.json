@@ -3,28 +3,7 @@
     "name": "Streyfe",
     "region": "PK",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "Vanilla",
-        "tier": "LT5"
-      },
-      {
-        "kit": "NethOp",
-        "tier": "HT4"
-      },
-      {
-        "kit": "Axe",
-        "tier": "HT1"
-      },
-      {
-        "kit": "Spearmace",
-        "tier": "LT5"
-      },
-      {
-        "kit": "Elytra",
-        "tier": "LT5"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "HandsomeHenryyy",
